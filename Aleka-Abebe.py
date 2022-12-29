@@ -1,19 +1,3 @@
-''' White Kninght (working title)
-
-FIGHT!!!!!
-  
-White Kninght is an 8-bit side scrolling, infinite level platform game, 
-produced in python using PyGame by KPRO software . Inspired by super street fighter, super 
-smash bros and Mario, we created a customisable and addictive game 
-that gets progressively harder.
-
-This file forms a start menu for the game.  When selected, the game 
-function is loaded as a new instance of pygame within the same window.  
-Implemented in this way so that whenever the player quits the game, it 
-goes back to the menu.
-
-'''
-
 ### Library Imports
 import os
 import webbrowser
