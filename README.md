@@ -1,8 +1,8 @@
 
-# White Kninght
+# ALEKA ABEBE
 
 ## The Game
-White Kninght is an 8-bit side scrolling, infinite level platform game, 
+ALEKA ABEBE is an Ethiopian themed 8-bit side scrolling, infinite level platform game, 
 
 #### Main Menu
 On loading the game, you are met with the main menu.  The play button will lead you to an intro cutscene followed by the game, while settings opens the settings menu.  You can quit game from here, and the about button leads to this web page.
@@ -17,7 +17,7 @@ The score is calculated based on number of health points taken by the character,
 
 In the settings menu you can change the key bindings to your preferred set.  To do this simply press the change button next to the corresponding action.  The action text will highlight in red.  Press the key on your keyboard that you would like to set the action to and the binding will be updated.  To change the background track, simply press the music button at the bottom and it will iterate through the available tracks.  To return to the default settings, press the reset button.
 ## Installation
-To play White Kninght you need the following installations on your system
+To play ALEKA ABEBE you need the following installations on your system
 
 Python 3, with version >= 3.8.5
 PyGame version >= 2.0.0
@@ -41,7 +41,7 @@ To install pygame, run `pip3 install pygame`
 
 To give execute permissions, make sure to run `chmod +x White Kninght.py`
 
-Run `python3 White Kninght.py` from the projects root directory.
+Run `python3 ALEKA-ABEBE.py` from the projects root directory.
 #### Mac OS
 We have been unable to test this project on Mac OS, however as it has been tested on various flavours of Linux we see no reason why it should fail on a mac.
 Ensure python3 and pygame 2 are installed.
