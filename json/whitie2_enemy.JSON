@@ -1,0 +1,16 @@
+{
+    "path": "graphics/spritesheets/whitie2-enemy.png",
+    "background": [0, 255, 0],
+    "gridsize": [4, 9],
+    "charsize": [64, 64],
+    "graphic_dims": [18, 54],
+    "scale_factor": 1,
+    "speed": 1,
+    "jump_speed": 50,
+    "gravity": 10,
+    "refresh": 10,
+    "initialstate": ["idle", "right"],
+
+    "initial_health_points": 30,
+    "initial_strength": 10
+}

@@ -1,0 +1,17 @@
+{
+    "path": "graphics/spritesheets/basic-character.png",
+    "background": [0, 255, 0],
+    "gridsize": [4, 9],
+    "charsize": [32, 32],
+    "graphic_dims": [10, 26],
+    "scale_factor": 2,
+    "speed": 2,
+    "jump_speed": 50,
+    "gravity": 8,
+    "refresh": 10,
+    "initialstate": ["idle", "right"],
+
+    "initial_health_points": 100,
+    "initial_strength": 10
+
+}

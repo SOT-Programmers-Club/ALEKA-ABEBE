@@ -1,0 +1,22 @@
+This file includes the story at the beginning of the game.
+Lines starting with TITLE get built into a title, lines starting
+with MAIN get built into the story.  All other lines are ignored.
+
+TITLE 2140: IN AN
+TITLE alternate dimension..
+
+
+MAIN In a world where colonialism re-emerges,
+MAIN the state of East Africa is under attack
+MAIN a hero rises the super hero known as the
+MAIN colony crusher, ALEKA ABEBE, the colonisers
+MAIN have picked a fight they can't win
+MAIN Will Aleka Abebe restore East African Independence
+MAIN Or will the colonial aggressors emerge
+MAIN victorius...
+MAIN
+MAIN
+MAIN Copyright© SOT Programmers Group, inc
+MAIN
+MAIN Made by Kibur Esmehayal
+MAIN and  THE GANG (SPG)*

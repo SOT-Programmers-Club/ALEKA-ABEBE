@@ -1,0 +1,29 @@
+{
+    "colour": {
+        "black": [0, 0, 0],
+        "white": [255, 255, 255],
+        "red": [255, 0, 0],
+        "green": [0, 255, 0],
+        "blue": [0, 0, 255],
+        "purple": [47, 25, 91],
+        "skyblue": [153, 217, 234]
+    },
+    "font_size": {
+        "title": 70,
+        "subtitle": 40,
+        "normal": 15
+        },
+    "screen_dims": [800, 640],
+    "max_fps": 60,
+    "game_name": "Aleka-Abebe",
+    "logo_location": "graphics/logo/logo.png",
+    "menu_music": "audio/background/indigo_Heart.wav",
+    "start_menu_background": "graphics/menu/menu-background.png",
+    "map_keys": {
+        "0":"soft",
+        "1":"hard",
+        "2":"hard",
+        "3":"hard"
+    }
+
+}
